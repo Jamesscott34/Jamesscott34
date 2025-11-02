@@ -10,7 +10,7 @@
 Hey there! I’m James Scott, a developer and cybersecurity practitioner with a deep interest in building, securing, and automating systems.
 
 I started with a Level 7 Diploma in Software Development, advanced into Networking and Systems Security (Level 7), and I’m now completing a Level 9 Postgraduate Diploma in Cybersecurity.
-Each stage built a new layer of understanding — from writing efficient code to securing cloud infrastructure and defending real systems against threats.
+Each stage built a new layer of understanding from writing efficient code to securing cloud infrastructure and defending real systems against threats.
 
 🧩 What I Do
 
@@ -59,7 +59,7 @@ Educational and Applied Research
 🎯 What Drives Me
 
 I value clear logic, practical outcomes, and real-world impact.
-Whether it’s automating a cybersecurity workflow, securing an app from the ground up, or simplifying a field reporting process — I focus on creating tools that make technology smarter, safer, and more reliable.
+Whether it’s automating a cybersecurity workflow, securing an app from the ground up, or simplifying a field reporting process  I focus on creating tools that make technology smarter, safer, and more reliable.
 
 🌍 Connect With Me
 
