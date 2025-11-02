@@ -63,6 +63,4 @@ Whether it’s automating a cybersecurity workflow, securing an app from the gro
 
 🌍 Connect With Me
 
-📫 Email: jamesdeanscott19@gmail.com
-
 💼 GitHub: github.com/Jamesscott34
